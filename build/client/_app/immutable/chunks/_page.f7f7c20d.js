@@ -1,1 +1,0 @@
-const e=async({data:o,fetch:t,depends:s})=>(t("https://dummyjson.com/products"),t("https://dummyjson.com/users"),s("app:products"),{products:o.products,title:"Products List"}),r=Object.freeze(Object.defineProperty({__proto__:null,load:e},Symbol.toStringTag,{value:"Module"}));export{r as _,e as l};
